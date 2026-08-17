@@ -6,7 +6,7 @@ import {
     profile
 } from "../controler/userCont.js";
 
-import authMiddleware from "../middleware/authMiddleware.js";
+import authMiddleware from "../madlewhare/midlewher.js";
 
 const router = express.Router();
 
